@@ -4,7 +4,7 @@ const Navbar =()=>{
       return (
             <div>
                   <Link to="/">Home</Link>
-                  <Link to="/about">About</Link>
+                  <Link to="/app-to-host">About</Link>
                   <Link to="/careers">Careers</Link>
             </div>
       )
